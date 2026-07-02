@@ -3,7 +3,7 @@
 **An AI/ML Engineer -** I take an idea, turn it into something real, and make it work in production.
 
 I'm a software developer at the core. I've built in Python and C++ for years and committed fully to
-software/CS after Bachelors In Electronics(2018), then from 2024 went deep on AI/ML: classical machine learning, deep learning, then LLMs,
+software/CS after Bachelor's in Electronics (2018), then from 2024 went deep on AI/ML: classical machine learning, deep learning, then LLMs,
 RAG, and agentic systems. Today I build production AI/ML systems end to end. I don't just prototype. I
 ship, and I show the work.
 
