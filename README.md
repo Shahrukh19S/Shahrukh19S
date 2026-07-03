@@ -12,6 +12,11 @@ ship, and I show the work.
 ✔️ **RAG and document-AI:** private, local-first "chat with your data," grounded and citable
 ✔️ **The ML and deep-learning foundations underneath:** sound systems, not demos
 
+## How I build
+🔹 **Readable by design:** clear READMEs and thorough, teaching-grade comments, so the code is easy to follow and run
+🔹 **Modular, not one-off scripts:** clean structure, pinned dependencies
+🔹 **Honest and reproducible:** real results, not demos
+
 ## Featured projects
 - **[folio-mcp](https://github.com/Shahrukh19S/folio-mcp):** privacy-first, zero-cost "chat with your
   documents" assistant. RAG over local Ollama, MCP, CLI plus an OAuth web app, with an honest
