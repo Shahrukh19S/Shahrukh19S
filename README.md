@@ -2,20 +2,22 @@
 
 **An AI/ML Engineer -** I take an idea, turn it into something real, and make it work in production.
 
-I'm a software developer at the core. I've built in Python and C++ for years and committed fully to
-software/CS after Bachelor's in Electronics (2018), then from 2024 went deep on AI/ML: classical machine learning, deep learning, then LLMs,
-RAG, and agentic systems. Today I build production AI/ML systems end to end. I don't just prototype. I
-ship, and I show the work.
+> I'm a software developer at the core. I've built in Python and C++ for years and committed fully to
+software/CS after Bachelor's in Electronics (2018), then from 2024 went deep on AI/ML: classical machine
+learning, deep learning, then LLMs, RAG, and agentic systems. I dig into how things work from first principles, then build production AI/ML systems end
+to end. I don't just prototype. I ship and show the work that works in the real world.
 
 ## What I build
-✔️ **Agentic AI:** LLM agents, multi-agent orchestration, MCP, tool-use
-✔️ **RAG and document-AI:** private, local-first "chat with your data," grounded and citable
-✔️ **The ML and deep-learning foundations underneath:** sound systems, not demos
+- ✔️ **Agentic AI:** LLM agents, multi-agent orchestration, MCP, tool-use
+- ✔️ **RAG and document-AI:** private, local-first "chat with your data," grounded and citable
+- ✔️ **The ML and deep-learning foundations underneath:** sound systems, not demos
 
 ## How I build
-🔹 **Readable by design:** clear READMEs and thorough, teaching-grade comments, so the code is easy to follow and run
-🔹 **Modular, not one-off scripts:** clean structure, pinned dependencies
-🔹 **Honest and reproducible:** real results, not demos
+I teach and mentor coders worldwide, from young first-timers to working adults, both as an instructor and on my channel. So I build code to be learned from, not just used:
+
+🔹 **Readable by design:** clear READMEs and comments written to teach, so anyone can follow, run, and learn from the code
+🔹 **Modular, not one-off scripts:** clean structure and pinned dependencies, easy to navigate and extend
+🔹 **Honest and reproducible:** real results and trade-offs, not demos
 
 ## Featured projects
 - **[folio-mcp](https://github.com/Shahrukh19S/folio-mcp):** privacy-first, zero-cost "chat with your
