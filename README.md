@@ -1,4 +1,4 @@
-Hi, I'm Abdullah Ansari 👋
+## Hi, I'm Abdullah Ansari 👋
 
 **AI/ML Engineer | Generative AI, RAG and Agentic Systems**
 
@@ -12,7 +12,7 @@ I take an idea, make it real, and make it succeed in production. Here that means
 - ✔️ **ML and deep-learning foundations:** classical ML, deep learning, and NLP, from data preparation and model development/training through evaluation, with leakage-safe pipelines and fine-tuned transformers
 
 ## How I build
-I teach and mentor coders worldwide, from young first-timers to working adults, as a coding instructor at BrightChamps and on my YouTube channel, [BitzNTwist](https://www.youtube.com/@bitzntwist) So I build code to be learned from, not just used:
+I teach and mentor coders worldwide, from young first-timers to working adults, as a coding instructor at BrightChamps and on my YouTube channel, [BitzNTwist](https://www.youtube.com/@bitzntwist). So I build code to be learned from, not just used:
 
 - 🔹 Readable by design: clear READMEs and comments written to teach, so anyone can follow, run, and learn from the code
 - 🔹 Modular, not one-off scripts: clean structure and pinned dependencies, easy to navigate and extend
